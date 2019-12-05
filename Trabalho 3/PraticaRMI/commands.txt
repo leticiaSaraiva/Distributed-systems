@@ -1,0 +1,9 @@
+rmiregistry 
+
+java -Djava.server.rmi.codebaseile:/// -Djava.security.policy=policy Server
+
+
+
+java -Djava.security.policy=policy Client
+
+

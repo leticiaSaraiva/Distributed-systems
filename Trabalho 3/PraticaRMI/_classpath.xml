@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/johnny/Google Drive/UFC/Engenharia de Computação/7° Semestre/Distribuidos/Trabalho 3/PraticaRMI/driver/postgresql-42.2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
